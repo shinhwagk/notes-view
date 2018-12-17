@@ -2,7 +2,7 @@
 
 1. Install Angular CLI
 ```sh
-ng n notes-view --verbose=true --commit=true --minimal=true --routing=true --skipInstall=true --style=sass --force=true
+ng n notes-view --verbose --commit --minimal --routing --skipInstall --style=sass
 cd notes-view
 git commit -m "create angular"
 ng add @angular/pwa
